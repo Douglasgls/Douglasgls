@@ -2,10 +2,11 @@
 
 Sou apaixonado por desenvolvimento de software e atualmente estou em constante aprendizado nas áreas de back-end, front-end. Tenho explorado diversas tecnologias como **Node.js**, **Python com FastAPI**, **Java**, **JavaScript**, **React**, **Next.js**, entre outras.
 
-Meu foco está em criar soluções eficientes, escaláveis e que realmente façam diferença na vida das pessoas. 
+Meu foco está em criar soluções eficientes, escaláveis e que realmente façam diferença na vida das pessoas.
 
-📚 Sempre em busca de melhorar, acredito que o conhecimento é construído com prática, troca e projetos reais.
+No momento estou cursano análise e desenvolvimento de sistemas no IFPE Garanhus. 📚
 
+Sempre em busca de melhorar, acredito que o conhecimento é construído com prática, troca e projetos reais.
 
 ## ⚙️ Tecnologias que venho estudando:
 
@@ -14,7 +15,7 @@ Meu foco está em criar soluções eficientes, escaláveis e que realmente faça
 - **Front-end:** React.js, Next.js
 - **Outros:** Docker, Git, Zabbix, Proxmox, SQL
   
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Douglasgls&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasgls&layout=compact&theme=radical" height="150"/>
 </div>
