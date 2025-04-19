@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Douglas Paz!
 
-<!--
-**Douglasgls/Douglasgls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por desenvolvimento de software e atualmente estou em constante aprendizado nas áreas de back-end, front-end. Tenho explorado diversas tecnologias como **Node.js**, **Python com FastAPI**, **Java**, **JavaScript**, **React**, **Next.js**, entre outras.
 
-Here are some ideas to get you started:
+Meu foco está em criar soluções eficientes, escaláveis e que realmente façam diferença na vida das pessoas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sempre em busca de melhorar, acredito que o conhecimento é construído com prática, troca e projetos reais.
+
+
+## ⚙️ Tecnologias que venho estudando:
+
+- **Linguagens:** JavaScript, Python, Java, TypeScript, HTML, CSS
+- **Back-end:** Node.js, FastAPI, Spring Boot
+- **Front-end:** React.js, Next.js
+- **Outros:** Docker, Git, Zabbix, Proxmox, SQL
+  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Douglasgls&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasgls&layout=compact&theme=radical" height="150"/>
+</div>
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.instagram.com/douglas_p4z" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:douglaspaz955@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/douglas-paz-b19a61158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
