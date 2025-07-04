@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Douglas Paz!
 
-Sou apaixonado por desenvolvimento de software e atualmente estou em constante aprendizado nas áreas de back-end, front-end. Tenho explorado diversas tecnologias como **Node.js**, **Python com FastAPI**, **Java**, **JavaScript**, **React**, **Next.js**, entre outras.
+Gosto de desenvolvimento de software e estou focado na área de back-end. Abaixo, você pode ver alguns templates que desenvolvi, contribuí na construção ou participei da manutenção.
 
 No momento estou cursano análise e desenvolvimento de sistemas no IFPE Garanhus. 📚
 
